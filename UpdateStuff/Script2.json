@@ -1,15 +1,15 @@
 [
    {
       "title":"Fell like the kkk",
-      "credits": "by unknown creator",
+      "credits": "by juandale pringle",
       "desc" : "A very simple aimbot and ESP script that should work in most games.",
       "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/SimpleAimbotESP.txt\"))()",
       "imgurl" : "https://i.ytimg.com/vi/NWIiATnOnTI/maxresdefault.jpg",
-      "imgurl2" : "https://i1.sndcdn.com/avatars-bz4eeepas4NjnAGA-CEDHEg-t500x500.jpg"
+      "imgurl2" : "https://i.ytimg.com/vi/Av8K5-V3ifY/mqdefault.jpg"
    },
    {
       "title":"Server hop",
-      "credits": "SouthNigger",
+      "credits": "quandale dingle",
       "desc" : "A simple script that allows you to server hop.",
       "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/ServerHop.txt\"))()",
       "imgurl" : "https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorageImages/!DefaultBackground.png",
