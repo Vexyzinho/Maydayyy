@@ -1,10 +1,10 @@
 [
    {
       "title":"Fell like the kkk",
-      "credits": "by unknown creator",
+      "credits": "by unknown werwerwerwecreator",
       "desc" : "A very simple aimbot and ESP script that should work in most games.",
       "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/MainDabRblx/ProjectDab/master/ScriptStorage/SimpleAimbotESP.txt\"))()",
-      "imgurl" : "https://i.ytimg.com/vi/NWIiATnOnTI/maxresdefault.jpg",
+      "imgurl" : "https://raw.githubusercontent.com/Vexyzinho/Atlas-x-stuff/main/Avatar%20dos%20cara%20kkkkkkk/89a7959dbdb16488db500e62f4bb4517.jpg",
       "userurl" : "https://raw.githubusercontent.com/Vexyzinho/Atlas-x-stuff/main/Avatar%20dos%20cara%20kkkkkkk/89a7959dbdb16488db500e62f4bb4517.jpg"
    },
    {
