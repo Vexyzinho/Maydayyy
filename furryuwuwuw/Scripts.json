@@ -2,9 +2,9 @@
    {
       "Titulo":"Chat bypass",
       "creditos": "Feito Por : Trump",
-      "desc" : "Use uma alt!!! Há um risco enorme de tu levar um ban temporario.",
+      "desc" : "Use uma alt!!! Ha um risco enorme de tu levar um ban temporario.",
       "script":"loadstring(game:HttpGet(\"https://raw.githubusercontent.com/Vexyzinho/Atlas-x-stuff/main/ScriptsAtlas/ChatBypas.txt\"))()",
-      "jogo":"arsenal",
+      "jogo":"Jogo : arsenal",
       "imagem" : "https://raw.githubusercontent.com/Vexyzinho/Atlas-x-stuff/main/FotosScripts/ChatBypass.png"
      
    }
